@@ -25,7 +25,7 @@ To delete branch from remote repository
 ## git log
 To check git logs
 
-## git revert <commit-hash>
+## git revert <commit_hash>
 To revert to an older version of repository
 You can get the commit hash from the "git log" 
 
