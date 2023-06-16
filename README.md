@@ -19,7 +19,7 @@ To switch to other branch
 ## git branch -d <branch_name>
 To delete branch from local repository
 
-## git push origin --delete remoteBranchName
+## git push origin --delete <remote_branch_name>
 To delete branch from remote repository
 
 ## git log
