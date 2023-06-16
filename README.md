@@ -7,7 +7,7 @@ To add files to git repository
 ## git commit -m "commit message"
 Commit files to git repository
 
-## git push -u origin <branch>
+## git push -u origin <branch_name>
 Push files to remote repository
 
 ## git branch <branch_name>
