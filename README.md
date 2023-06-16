@@ -29,7 +29,7 @@ To check git logs
 To revert to an older version of repository
 You can get the commit hash from the "git log" 
 
-
+<hr />
   
   To learn more:
   #### https://git-scm.com/docs
