@@ -1,5 +1,5 @@
 ## git init
-Initialises and empty git repository
+Initializes and empty git repository
 
 ## git add <files>  (you can use "git add ." to add all files to repository)
 To add files to git repository
