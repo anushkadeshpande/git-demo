@@ -34,4 +34,5 @@ You can get the commit hash from the "git log"
   To learn more:
   #### https://git-scm.com/docs
   #### https://docs.github.com/en/get-started
-  #### https://www.youtube.com/watch?v=8JJ101D3knE&pp=ygUYZ2V0dGluZyBzdGFydGVkIHdpdGggZ2l0
+  #### https://www.youtube.com/watch?v=HkdAHXoRtos
+  #### https://www.youtube.com/watch?v=8JJ101D3knE
